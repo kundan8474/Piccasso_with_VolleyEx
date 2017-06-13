@@ -1,2 +1,2 @@
 # Piccasso_with_VolleyEx
-2d3e71fc56c7ecf7c712a66d686cb51a1c1f64b4
+# Uses volley to fetch url of the image and then displays it in imageview using piccasso library
